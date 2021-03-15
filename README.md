@@ -1,1 +1,3 @@
-# dasar-dart-4b
+# pengembangan aplikasi mobile
+
+Pengantar pemrograman dasar dengan dart
